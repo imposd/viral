@@ -1,0 +1,22 @@
+{
+    "name": "viral",
+    "displayName": "Viral",
+    "description": "My personal color scheme for programming",
+    "version": "0.0.1",
+    "publisher": "dvhe",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "viral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/viral-color-theme.json"
+            }
+        ]
+    }
+}
